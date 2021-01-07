@@ -1,5 +1,5 @@
 import json
 
-def greeting(name: str) -> str:
+def greeting(name: str) -> int:
     return 'Hello ' + name
 
